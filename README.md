@@ -1,9 +1,3 @@
-Untuk proyek **IPL Payment (gtr-ipl)** yang sedang kamu kerjakan sebagai bagian dari skripsi di Universitas Pamulang (UNPAM), file `README.md` sangat penting agar orang lain (atau dosen penguji) paham cara menjalankan sistem ini.
-
-Berikut adalah draf deskripsi `README.md` yang profesional dan lengkap:
-
----
-
 # IPL Payment System - Cluster Botanica Grand Tenjo
 
 Sistem Manajemen Pembayaran Iuran Pemeliharaan Lingkungan (IPL) berbasis Web yang dirancang untuk memudahkan warga dalam melakukan pembayaran dan pengelola dalam memantau status iuran secara *real-time*.
