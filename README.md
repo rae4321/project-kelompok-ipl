@@ -40,22 +40,3 @@ Proyek ini dikembangkan untuk mendigitalisasi sistem penagihan iuran di lingkung
 * `dist/` & `plugins/` : File aset template AdminLTE (CSS, JS).
 * `images/` : Penyimpanan aset gambar dan foto user.
 * `rest/` : API/Endpoint untuk pemrosesan data (seperti fitur search).
-
-## 👨‍💻 Kontributor
-* **Rae Triadi** - *Lead Developer* - [Universitas Pamulang]
-* Tim Kelompok UNPAM
-
----
-
-### Tips Penggunaan:
-1.  Buat file baru bernama `README.md` di folder utama proyek kamu.
-2.  Copy-paste teks di atas ke dalam file tersebut.
-3.  Jangan lupa ganti `username` pada bagian link GitHub dengan username kamu.
-4.  Setelah disimpan, lakukan commit:
-    ```bash
-    git add README.md
-    git commit -m "docs: tambah file README untuk dokumentasi proyek"
-    git push origin main
-    ```
-
-Ada bagian fitur atau detail lain yang ingin kamu tambahkan khusus untuk kebutuhan skripsi kamu?
